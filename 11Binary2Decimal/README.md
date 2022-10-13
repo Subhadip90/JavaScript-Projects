@@ -1,0 +1,3 @@
+# BINARY TO DECIMAL
+
+![BINARY TO DECIMAL](screenshot.png)
